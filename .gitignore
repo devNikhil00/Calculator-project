@@ -1,0 +1,31 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OneDrive temp files
+~$*
+*.tmp
+
+# Build/dist
+dist/
+build/
+
+# System files
+*.bak
+*.swp
