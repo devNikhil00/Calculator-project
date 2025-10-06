@@ -2,6 +2,10 @@
 
 A minimal JavaScript calculator web app built for learning and demonstration purposes.
 
+## Live demo
+
+The project is hosted on GitHub Pages: https://devnikhil00.github.io/Calculator-project/
+
 ## Project structure
 
 - `index.html` — the app HTML shell and UI
